@@ -1,215 +1,179 @@
-<!-- ======================= HEADER ======================= -->
-
+<!-- ╔══════════════════════ HERO ══════════════════════╗ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563EB&height=220&section=header&text=Sudhir%20Baghel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Web%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00f5ff,50:8957e5,100:ff4d6d&height=250&section=header&text=Sudhir%20Baghel&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Turning%20AI%20ideas%20into%20real-world%20web%20apps&descSize=20&descAlignY=60&descColor=ffffff" alt="Sudhir Baghel banner" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=800&height=48&lines=%3E+AI+%2F+ML+Developer;%3E+Computer+Vision+Enthusiast;%3E+Generative+AI+Explorer;%3E+Python+%7C+React+%7C+Modern+Web;%3E+Let's+build+something+intelligent+%F0%9F%9A%80" alt="Typing animation" />
 
 <br/>
 
-<a href="https://sudhir-baghel.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://sudhir-baghel.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-sudhir--baghel.vercel.app-00b4d8?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
+<a href="mailto:sudhirbaghel963@gmail.com"><img src="https://img.shields.io/badge/📫_Email-sudhirbaghel963@gmail.com-ff4d6d?style=for-the-badge&labelColor=0d1117" alt="Email" /></a>
+<a href="https://github.com/sudhirbaghel963-ai"><img src="https://img.shields.io/badge/GitHub-sudhirbaghel963--ai-8957e5?style=for-the-badge&logo=github&labelColor=0d1117" alt="GitHub" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sudhirbaghel963-ai&label=Profile+Views&color=00b4d8&style=flat-square&labelColor=0d1117" alt="Profile views" />
+<a href="https://github.com/sudhirbaghel963-ai?tab=followers"><img src="https://img.shields.io/github/followers/sudhirbaghel963-ai?label=Followers&style=flat-square&logo=github&color=8957e5&labelColor=0d1117" alt="Followers" /></a>
+
+</div>
+
+<!-- ╚══════════════════════════════════════════════════╝ -->
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:8957e5,100:ff4d6d&height=2&section=header" width="100%" alt=""/>
+
+## 👋 Who Am I?
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 Hello, World!
+
+I'm **Sudhir**, an **AI/ML enthusiast and developer** who loves building intelligent web applications. I combine machine learning and computer vision with modern web development to ship ideas people can actually use.
+
+> *"I turn AI ideas into real-world web applications."* 🚀
+
+</td>
+<td width="50%" valign="top">
+
+```json
+{
+  "name": "Sudhir Baghel",
+  "role": "AI/ML Developer",
+  "focus": ["AI Web Apps", "Computer Vision"],
+  "learning": ["ML", "DL", "CV", "NLP", "GenAI"],
+  "open_to": "AI/ML & CV collaborations",
+  "ask_me_about": ["Python", "ML", "React"],
+  "email": "sudhirbaghel963@gmail.com"
+}
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+| 🔭 Building | 🌱 Learning | 👯 Collaborating | 🤝 Need help with |
+|:---:|:---:|:---:|:---:|
+| AI-powered web apps & computer vision projects | ML, Deep Learning, CV, NLP & Generative AI | AI/ML, Computer Vision & AI web dev | Scalable AI apps & ML model deployment |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:8957e5,100:ff4d6d&height=2&section=header" width="100%" alt=""/>
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🤖 AI · ML · Data**<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,numpy&perline=7" alt="AI ML" />
+
+</td>
+<td align="center" width="50%">
+
+**🌐 Frontend · Backend**<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express&perline=9" alt="Web" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🗄️ Databases**<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3" alt="Databases" />
+
+</td>
+<td align="center">
+
+**☁️ Cloud · DevOps · Tools**<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,figma,cpp,ai,ps&perline=8" alt="Tools" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:8957e5,100:ff4d6d&height=2&section=header" width="100%" alt=""/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=sudhirbaghel963-ai&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=14" alt="GitHub stats" />
+</td>
+<td>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhirbaghel963-ai&layout=donut-vertical&theme=radical&hide_border=true&langs_count=8&border_radius=14" alt="Top languages" />
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=sudhirbaghel963-ai&theme=radical&hide_border=true&border_radius=14" alt="GitHub streak" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:8957e5,100:ff4d6d&height=2&section=header" width="100%" alt=""/>
+
+## 📈 Contribution & Commit Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhirbaghel963-ai&theme=react-dark&bg_color=0d1117&color=00f5ff&line=8957e5&point=ff4d6d&area=true&area_color=8957e5&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%A2%20Sudhir%20Baghel" alt="Contribution activity graph" width="100%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:8957e5,100:ff4d6d&height=2&section=header" width="100%" alt=""/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudhirbaghel963-ai&theme=darkhub&no-frame=true&no-bg=true&margin-w=14&row=1&column=7" alt="GitHub trophies" />
 </a>
 
-<a href="https://www.linkedin.com/in/sudhir-baghel-29dc2005">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
 
-<a href="mailto:sudhirbaghel963@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:8957e5,100:ff4d6d&height=2&section=header" width="100%" alt=""/>
 
-<a href="https://github.com/sudhirbaghel963-ai">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## 🚀 Featured Work
+
+<div align="center">
+
+All of my projects, with live demos and source code, live on my portfolio.
+
+<a href="https://sudhir-baghel.vercel.app/"><img src="https://img.shields.io/badge/🚀_Explore_My_Projects-Open_Portfolio-8957e5?style=for-the-badge&labelColor=0d1117" alt="Explore projects" /></a>
+<a href="https://github.com/sudhirbaghel963-ai?tab=repositories"><img src="https://img.shields.io/badge/📂_Source_Code-All_Repositories-00b4d8?style=for-the-badge&logo=github&labelColor=0d1117" alt="Repositories" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:8957e5,100:ff4d6d&height=2&section=header" width="100%" alt=""/>
+
+## 🤝 Let's Work Together
+
+<div align="center">
+
+Open to collaborating on **AI/ML**, **Computer Vision** and **AI-powered web apps**.<br/>
+Have an idea? Send me a message and let's build it. 💡
+
+<a href="mailto:sudhirbaghel963@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://sudhir-baghel.vercel.app/"><img src="https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sudhirbaghel963-ai&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=8957E5&center=true&vCenter=true&width=600&lines=%E2%AD%90+Like+my+work%3F+Drop+a+star+on+a+repo!;Thanks+for+stopping+by+%F0%9F%99%8C" alt="Footer typing" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:8957e5,100:ff4d6d&height=130&section=footer" alt="Footer wave" width="100%"/>
 
 </div>
-
-
-<!-- ======================= TYPING ======================= -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=AI%2FML+Developer;Web+Developer;Computer+Vision+Enthusiast;Building+AI-Powered+Web+Applications;Learning+%7C+Building+%7C+Experimenting" />
-
-</div>
-
-<br/>
-
-
-<!-- ======================= ABOUT ======================= -->
-
-## 👨‍💻 About Me
-
-```yaml
-name: Sudhir Baghel
-role: AI/ML & Web Developer
-location: Nagpur, Maharashtra, India
-
-education:
-  degree: B.Tech in Artificial Intelligence & Machine Learning
-  college: Tulsiramji Gaikwad Patil College of Engineering and Technology
-  expected_graduation: 2028
-
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - NLP
-  - Generative AI
-  - Full-Stack Web Development
-
-currently:
-  - Building AI-powered applications
-  - Exploring Computer Vision
-  - Improving Web Development skills
-  - Working on real-world projects
-  <br/> <!-- ======================= WHAT I DO ======================= -->
-🚀 What I'm Doing
-🤖 Building AI/ML powered applications
-👁️ Exploring Computer Vision & Face Recognition
-🌐 Developing modern web applications
-🧠 Learning Machine Learning, Deep Learning & NLP
-⚡ Experimenting with Generative AI
-🛠️ Turning ideas into real-world projects
-<!-- ======================= TECH STACK ======================= -->
-🛠️ Tech Stack
-Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,js,html,css" /> </p>
-AI / ML
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> </p>
-Web Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express" /> </p>
-Database & Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=supabase,postgresql,mongodb" /> </p>
-Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" /> </p> <!-- ======================= GITHUB ANALYTICS ======================= -->
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudhirbaghel963-ai&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=FFFFFF" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhirbaghel963-ai&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=FFFFFF" height="180"/> </div> <br/>
-🔥 Contribution Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=sudhirbaghel963-ai&theme=dark&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="80%"/> </div> <!-- ======================= CONTRIBUTION ACTIVITY ======================= -->
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudhirbaghel963-ai&bg_color=0D1117&color=FFFFFF&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%"/> </div> <!-- ======================= COMMIT ACTIVITY ======================= -->
-💻 Commit Activity
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhirbaghel963-ai&theme=github_dark" width="100%"/> </div> <!-- ======================= CONTRIBUTION SNAKE ======================= -->
-🐍 Contribution Graph
-<div align="center"> <img src="https://raw.githubusercontent.com/sudhirbaghel963-ai/sudhirbaghel963-ai/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div> <!-- ======================= GITHUB TROPHIES ======================= -->
-🏆 GitHub Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sudhirbaghel963-ai&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/> </div> <!-- ======================= CONTRIBUTION CALENDAR ======================= -->
-📅 Contribution Calendar
-<div align="center"> <img src="https://ghchart.rshah.org/2563EB/sudhirbaghel963-ai" width="100%"/> </div> <!-- ======================= GITHUB STATS ======================= -->
-📌 GitHub Highlights
-<div align="center">
-📊 Metric	🔥 Live GitHub Data
-⭐ Total Stars	Dynamic
-📦 Public Repositories	Dynamic
-💻 Total Commits	Dynamic
-🔀 Pull Requests	Dynamic
-🐛 Issues	Dynamic
-🔥 Contribution Streak	Dynamic
-📈 Contributions	Dynamic
-</div>
-
-All GitHub statistics above are automatically generated from my GitHub activity.
-
-<!-- ======================= FEATURED PROJECTS ======================= -->
-🚀 Featured Projects
-🌐 Personal Portfolio
-
-Personal Portfolio & Full-Stack CMS
-
-React 19
-Vite
-Supabase
-React Router
-Vanilla CSS
-Full-stack CMS
-Admin Dashboard
-
-🔗 Live: https://sudhir-baghel.vercel.app/
-
-🔗 Source: https://github.com/sudhirbaghel963-ai/sudhir-s-portfolio
-
-🎉 Rama Celebration
-
-A React + Vite based interactive web project.
-
-Tech: React • Vite • JavaScript
-
-🔗 Source: https://github.com/sudhirbaghel963-ai/rama-celebration
-
-🛡️ Jan Rakshak
-
-Python-based web project containing an application backend along with testing and supporting resources.
-
-Tech: Python • HTML • CSS
-
-🔗 Source: https://github.com/sudhirbaghel963-ai/jan-Rakshak
-
-🎵 Sonnet
-
-A lightweight HTML-based web project.
-
-Tech: HTML
-
-🔗 Source: https://github.com/sudhirbaghel963-ai/sonnet
-
-<!-- ======================= CURRENTLY BUILDING ======================= -->
-🧪 Currently Building
-🔎 FaceSearch
-
-A private AI-powered photo search system using face recognition and vector similarity.
-
-Core Technologies
-
-Python FastAPI InsightFace PostgreSQL pgvector Backblaze B2
-
-🎂 Valvet and Keepsake
-
-A personalized cinematic birthday experience platform.
-
-Flow
-
-Customize → Purchase → Personalize → Share Link + QR → Birthday Experience
-
-<!-- ======================= LEARNING ======================= -->
-📚 Currently Learning
-Machine Learning
-Deep Learning
-Computer Vision
-Natural Language Processing
-Generative AI
-AI Application Development
-Advanced React
-Backend Development
-Cloud & Deployment
-<!-- ======================= DEVELOPER JOURNEY ======================= -->
-🧭 Developer Journey
-Learning
-   ↓
-Building Projects
-   ↓
-Experimenting with AI
-   ↓
-Deploying Real Applications
-   ↓
-Improving Through Practice
-   ↓
-Building Bigger Systems
-
-Learning by building real things.
-
-<!-- ======================= GITHUB PROFILE ======================= -->
-📊 GitHub Profile
-<div align="center"> <a href="https://github.com/sudhirbaghel963-ai"> <img src="https://github-readme-stats.vercel.app/api?username=sudhirbaghel963-ai&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=github_dark" width="90%"/> </a> </div> <!-- ======================= CONNECT ======================= -->
-🌐 Find Me Online
-<div align="center"> <a href="https://sudhir-baghel.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/sudhir-baghel-29dc2005"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:sudhirbaghel963@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div> <!-- ======================= FOOTER ======================= --> <div align="center"> <br/>
-💙 Thanks for visiting my profile!
-
-Let's build something amazing with AI.
-
-<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0f172a&height=120&section=footer"/> </div> ```
