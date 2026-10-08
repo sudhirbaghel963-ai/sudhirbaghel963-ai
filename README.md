@@ -1,7 +1,7 @@
 <!-- ╔══════════════════════ HERO ══════════════════════╗ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00f5ff,50:8957e5,100:ff4d6d&height=250&section=header&text=Sudhir%20Baghel&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Turning%20AI%20ideas%20into%20real-world%20web%20apps&descSize=20&descAlignY=60&descColor=ffffff" alt="Sudhir Baghel banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Sudhir%20Baghel&fontSize=64&fontColor=00f5ff&fontAlign=50&fontAlignY=38&desc=Turning%20AI%20ideas%20into%20real-world%20web%20apps&descSize=20&descColor=ffffff&descAlign=50&descAlignY=58&stroke=8957e5&strokeWidth=1" alt="Sudhir Baghel banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=800&height=48&lines=%3E+AI+%2F+ML+Developer;%3E+Computer+Vision+Enthusiast;%3E+Generative+AI+Explorer;%3E+Python+%7C+React+%7C+Modern+Web;%3E+Let's+build+something+intelligent+%F0%9F%9A%80" alt="Typing animation" />
 
@@ -174,6 +174,6 @@ Have an idea? Send me a message and let's build it. 💡
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=8957E5&center=true&vCenter=true&width=600&lines=%E2%AD%90+Like+my+work%3F+Drop+a+star+on+a+repo!;Thanks+for+stopping+by+%F0%9F%99%8C" alt="Footer typing" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:8957e5,100:ff4d6d&height=130&section=footer" alt="Footer wave" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer" alt="Footer wave" width="100%"/>
 
 </div>
