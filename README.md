@@ -152,14 +152,18 @@ flowchart LR
 
 <div align="center">
 
-All my AI/ML, computer vision and web projects, with live demos, are on my portfolio.
+Every project I build, with live demos and source code, is on my portfolio.
 
-<a href="https://sudhir-baghel.vercel.app/"><img src="https://img.shields.io/badge/🚀%20View%20All%20Projects-Live%20Portfolio-8957e5?style=for-the-badge&labelColor=0f0c29" alt="View all projects" /></a>
-<a href="https://github.com/sudhirbaghel963-ai?tab=repositories"><img src="https://img.shields.io/badge/📂%20Browse%20Repositories-GitHub-00b4d8?style=for-the-badge&labelColor=0f0c29" alt="Browse repositories" /></a>
+<a href="https://sudhir-baghel.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_View_All_Projects-sudhir--baghel.vercel.app-8957e5?style=for-the-badge" alt="View all projects" />
+</a>
+<a href="https://github.com/sudhirbaghel963-ai?tab=repositories">
+  <img src="https://img.shields.io/badge/📂_Browse_Repositories-GitHub-181717?style=for-the-badge&logo=github" alt="Browse repositories" />
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8957e5,50:00b4d8,100:ff4d6d&height=3&section=header" width="100%" alt="divider"/>
+---
 
 ## 🤝 Let's Connect
 
